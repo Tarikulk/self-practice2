@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.diet {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 40%;
+    padding-left: 8%;
+    padding-top: 5%;
+}
+
+.half-width img {
+    width: 100%;
+    /* margin-left: 100px; */
+}
+
+.orange {
+    color: tomato;
+}
+
+section div p {
+    margin-bottom: 10%;
+}
+
+h1 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: 'IBM Plex Sans', sans-serif
+}
+
+p {
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.btn {
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, rgb(190, 2, 2));
+    padding: 10px 15px;
+    border-radius: 50px;
+}
+
+.half-width-new {
+    width: 30%;
+    padding-left: 10%;
+}
+
+.half-width-new img {
+    width: 75%;
+}
+
+.contact {
+    margin-top: 150px;
+}
+
+.female {
+    padding-top: 5%;
+    /* background-color: antiquewhite; */
+    background-image: url(/images/shapes/7.png);
+    background-position: top;
+}
+
+.recipies-title {
+    color: gray;
+    width: 80% auto;
+    text-align: center;
+}
+
+.recipies {
+    margin: 0 300px;
+    text-align: center;
+}
+
+.diet-new {
+    display: flex;
+}
+
+.recipies-one {
+    padding-left: 8%;
+    padding-top: 5%;
+    text-align: center;
+}
+
+
+.recipies-one img {
+    width: 90%;
+}
+
+.shadow {
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 25px;
+    padding-right: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.Youtube {
+
+    width: 40%;
+    text-align: center;
+}
+
+.healthy {
+    background-color: black;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+}
+
+.white {
+    color: white;
+    text-align: center;
+}
